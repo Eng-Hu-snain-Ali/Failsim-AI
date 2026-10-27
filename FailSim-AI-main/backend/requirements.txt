@@ -1,0 +1,20 @@
+# Core Framework
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+pydantic==2.10.6
+pydantic-settings==2.10.1
+pybullet
+numpy
+# Google AI
+google-generativeai==0.8.3
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.32.3
+
+# Database (optional for now)
+sqlalchemy==2.0.36
+
+# Server dependencies
+anyio==4.8.0
+starlette==0.41.3
